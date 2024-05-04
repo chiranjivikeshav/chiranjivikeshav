@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chiranjivikeshav&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjivikeshav" /> </p>
-
-<p align="center" >- 📫 How to reach me **chiranjivikeshavjnvm@gmail.com**</p>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
