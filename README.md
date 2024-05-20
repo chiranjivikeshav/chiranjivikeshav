@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Chiranjivi keshav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 </p>
