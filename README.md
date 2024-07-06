@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Chiranjivi keshav</h1>
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+  <img align="center" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chiranjivikeshav&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjivikeshav" /> </p>
 <hr>
